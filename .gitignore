@@ -3,3 +3,11 @@
 /.classpath
 /.project
 /WebContent/
+/.idea/$PROJECT_FILE$
+/.idea/junitgenerator-prj-settings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/testGit.iml
+/.idea/vcs.xml
+/.idea/workspace.xml
