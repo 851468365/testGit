@@ -1,2 +1,10 @@
-123
-99312301
+package com.ai;
+
+public class TestGit {
+
+    public static void main(String[] args) {
+        System.out.println("hello java!!");
+
+    }
+
+}
